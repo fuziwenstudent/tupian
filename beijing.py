@@ -1,12 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-批量抠图换白底 —— macOS GUI 版
-运行：python bg_gui.py
-"""
-
 from __future__ import annotations
-
 import json
 import os
 import queue
